@@ -17,16 +17,23 @@
         .business-items li { padding: 5px 0; }
         .business-items li:before { content: "✓ "; color: #00a950; font-weight: bold; }
         .image-gallery { display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0; }
-        .image-gallery img { width: 100%; max-width: 380px; height: 240px; object-fit: cover; border-radius: 8px; box-shadow: 0 3px 8px rgba(0,0,0,0.1); border: 1px solid #eee; }
-        .map-container { width: 100%; overflow: hidden; padding-top: 52%; position: relative; border-radius: 8px; border: 1px solid #ddd; }
-        .map-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; }
+        .image-gallery img { width: 100%; max-width: 370px; height: 235px; object-fit: cover; border-radius: 8px; box-shadow: 0 3px 8px rgba(0,0,0,0.1); border: 1px solid #eee; }
+        .access-info {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            border-left: 4px solid #0052cc;
+            margin-top: 15px;
+        }
+        .access-info p { margin: 8px 0; }
+        .access-info a { color: #0052cc; font-weight: bold; text-decoration: underline; }
         .contact { display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-around; align-items: center; }
-        .contact-item { flex: 1; min-width: 260px; text-align: center; padding: 22px; border: 1px solid #ddd; border-radius: 8px; background: #fafafa; }
+        .contact-item { flex: 1; min-width: 255px; text-align: center; padding: 22px; border: 1px solid #ddd; border-radius: 8px; background: #fafafa; }
         .contact-item h3 { margin-bottom: 10px; color: #333; }
         .contact-item a { display: inline-block; margin-top: 10px; padding: 12px 24px; background: #0052cc; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; }
         .contact-item a:hover { background: #003d99; }
         footer { text-align: center; margin-top: 40px; padding: 20px; color: #888; font-size: 0.9em; border-top: 1px solid #eee; }
-        @media (max-width: 750px) { .image-gallery { flex-direction: column; align-items: center; } .contact { flex-direction: column; } }
+        @media (max-width: 730px) { .image-gallery { flex-direction: column; align-items: center; } .contact { flex-direction: column; } }
     </style>
 </head>
 <body>
@@ -64,10 +71,12 @@
     
     <section>
         <h2>アクセス</h2>
-        <p><strong>所在地：</strong> 〒599-0221 大阪府阪南市石田330-1</p>
-        <p><strong>最寄り駅：</strong> 阪和線「和泉鳥取駅」より車5分</p>
-        <div class="map-container">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3294.151034764316!2d135.23861787585585!3d34.3466340021283!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000b6de7982b779%3A0x26b0c3970bd7230d!2s330-1%20Ishida%2C%20Hannan%2C%20Osaka%20599-0221!5e0!3m2!1szh-CN!2sjp!4v1781712903495!5m2!1szh-CN!2sjp" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <div class="access-info">
+            <p><strong>所在地：</strong> 〒599-0221 大阪府阪南市石田330-1</p>
+            <p><strong>最寄り駅：</strong> 阪和線「和泉鳥取駅」より車5分</p>
+            <p style="margin-top: 12px;">
+                <a href="https://www.google.com/maps/search/330-1+Ishida+Hannan+Osaka+599-0221" target="_blank">▶ Google マップで開く</a>
+            </p>
         </div>
     </section>
     
