@@ -144,7 +144,7 @@
         <p><strong>所在地：</strong> 〒599-0221 大阪府阪南市石田330-1</p>
         <p><strong>最寄り駅：</strong> 阪和線「和泉鳥取駅」より車5分</p>
         <div class="map-container">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3294.151034764316!2d135.23861787585585!3d34.3466340021283!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6000b6de7982b779%3A0x26b0c3970bd7230d!2s330-1%20Ishida%2C%20Hannan%2C%20Osaka%20599-0221!5e0!3m2!1szh-CN!2sjp!4v1781712903495!5m2!1szh-CN!2sjp" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d26355.763200575195!2d135.2261581532601!3d34.33850437519958!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e6!4m3!3m2!1d34.3286036!2d135.2564736!4m5!1s0x6000b6de7982b779%3A0x26b0c3970bd7230d!2zMzMwLTEgSXNoaWRhLCBIYW5uYW4sIE9zYWthIDU5OS0wMjIx5pel5pys!3m2!1d34.3466296!2d135.2411928!5e0!3m2!1szh-CN!2sjp!4v1781714118115!5m2!1szh-CN!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
     </section>
     
