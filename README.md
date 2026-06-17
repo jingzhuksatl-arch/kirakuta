@@ -60,14 +60,15 @@
     </section>
     
     <section>
-        <h2>事業所イメージ / 取扱製品</h2>
-        <div class="image-gallery">
-            <img src="https://images.unsplash.com/photo-1560179707-f14e90ef3623?w=400&h=300&fit=crop" alt="オフィス外観イメージ">
-            <img src="https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop" alt="制御盤・PLCイメージ">
-            <img src="https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=400&h=300&fit=crop" alt="サーボモーター・センサーイメージ">
-        </div>
-        <p style="text-align:center; margin-top:10px; font-size:0.9em; color:#666;">※ 上記はイメージ画像です。実際の商品・施設とは異なる場合がございます。</p>
-    </section>
+    <h2>事業内容</h2>
+    <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+        <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fDE2OTYwNjk1NTN8fHx8&auto=format&fit=crop&w=1170&q=80" alt="システム開発" style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+        <img src="https://images.unsplash.com/photo-1551650975-87deedd944c3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fDE2OTYwNjk1OTN8fHx8&auto=format&fit=crop&w=1074&q=80" alt="建築設計" style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    </div>
+    <p style="text-align: center; margin-top: 20px; color: #666; font-size: 0.95em;">
+        ※ 上記はイメージ画像です。実際の商品・施設とは異なる場合がございます。
+    
+</section>
     
     <section>
         <h2>アクセス</h2>
