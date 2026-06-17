@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>株式会社サンプル貿易 | 会社案内</title>
+    <title>喜楽多合同会社 | 会社案内</title>
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Hiragino Kaku Gothic ProN', 'メイリオ', sans-serif; }
         body { background-color: #f9f9f9; color: #333; line-height: 1.6; padding: 20px; max-width: 1000px; margin: 0 auto; }
@@ -31,7 +31,7 @@
 </head>
 <body>
     <header>
-        <h1>株式会社サンプル貿易</h1>
+        <h1>喜楽多合同会社</h1>
         <p>日本の産業用電気設備・自動化機器の専門商社</p>
     </header>
     
@@ -75,24 +75,24 @@
                  2. 点击“共有” → “地図を埋め込む” → 选择大小 → 复制HTML代码。
                  3. 用复制的整个<iframe>标签替换掉下面这行注释。 -->
             <!-- 示例代码（请替换） -->
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3261.0327836046356!2d136.9065153156608!3d35.18123808031512!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x600376de6e6b4a3b%3A0x8c9c4c2f8a3e3b1a!2z5Lqs6YO95bqE!5e0!3m2!1sja!2sjp!4v1610000000000!5m2!1sja!2sjp" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+            <iframe src="https://maps.app.goo.gl/JBHPC84xSwYWS9Hn6" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
         </div>
-    </section>
+    </section>大阪府阪南市石田330-1
     
-    <section>
+    <section>車で和泉鸟取駅まで5分です。　尾崎駅まで7分です。
         <h2>お問い合わせ</h2>
         <div class="contact">
             <div class="contact-item">
                 <h3>📞 電話</h3>
-                <p>052-123-4567 (代表)</p>
+                <p>090-3590-5888 (代表)</p>
             </div>
             <div class="contact-item">
                 <h3>✉️ メール</h3>
-                <p>info@example.com</p>
+                <p>jingzhu@ks-atl.com</p>
             </div>
             <div class="contact-item">
                 <h3>📱 スマートフォンで経路案内</h3>
-                <a href="https://www.google.com/maps/dir/?api=1&destination=愛知県名古屋市中区○○町1-2-3" target="_blank">Google マップで開く</a>
+                <a href="https://maps.app.goo.gl/JBHPC84xSwYWS9Hn6" target="_blank">Google マップで開く</a>
             </div>
         </div>
     </section>
