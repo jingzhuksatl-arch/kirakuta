@@ -72,31 +72,19 @@
     </section>
     
     <section>
-        <h2>アクセス</h2>
-        <div class="access-info">
-            <p><strong>所在地：</strong> 〒599-0221 大阪府阪南市石田330-1</p>
-            <p><strong>最寄り駅：</strong> 阪和線「和泉鳥取駅」より車5分</p>
-            <p><a href="https://www.google.com/maps/search/330-1+Ishida+Hannan+Osaka+599-0221" target="_blank">▶ Google マップで開く</a></p>
-        </div>
-    </section>
-    
-    <section>
-        <h2>お問い合わせ</h2>
-        <div class="contact">
-            <div class="contact-item">
-                <h3>📞 電話</h3>
-                <p>090-3590-5888 (代表)</p>
-            </div>
-            <div class="contact-item">
-                <h3>✉️ メール</h3>
-                <p>jingzhu@ks-atl.com</p>
-            </div>
-            <div class="contact-item">
-                <h3>📱 経路案内</h3>
-                <a href="https://www.google.com/maps/dir/?api=1&destination=大阪府阪南市石田330-1" target="_blank">Google マップで開く</a>
-            </div>
-        </div>
-    </section>
+    <h2>アクセス</h2>
+    <div class="access-info">
+        <strong>所在地：</strong> 〒599-0221 大阪府阪南市石田330-1
+        <strong>最寄り駅：</strong> 阪和線「和泉鳥取駅」より車5分
+        <p style="margin-top: 15px;">
+            <a href="https://www.google.com/maps/search/330-1+Ishida+Hannan+Osaka+599-0221" 
+               target="_blank" 
+               style="color: #0052cc; text-decoration: underline; font-weight: bold;">
+                ▶ Google マップで開く
+            </a>
+        
+    </div>
+</section>
     
     <footer>
         <p>© 2026 喜楽多合同会社. All Rights Reserved.</p>
