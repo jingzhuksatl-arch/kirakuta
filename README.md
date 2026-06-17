@@ -140,13 +140,19 @@
     </section>
     
     <section>
-        <h2>アクセス</h2>
-        <p><strong>所在地：</strong> 〒599-0221 大阪府阪南市石田330-1</p>
-        <p><strong>最寄り駅：</strong> 阪和線「和泉鳥取駅」より車5分</p>
-        <div class="map-container">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d26355.763200575195!2d135.2261581532601!3d34.33850437519958!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e6!4m3!3m2!1d34.3286036!2d135.2564736!4m5!1s0x6000b6de7982b779%3A0x26b0c3970bd7230d!2zMzMwLTEgSXNoaWRhLCBIYW5uYW4sIE9zYWthIDU5OS0wMjIx5pel5pys!3m2!1d34.3466296!2d135.2411928!5e0!3m2!1szh-CN!2sjp!4v1781714118115!5m2!1szh-CN!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-        </div>
-    </section>
+    <h2>アクセス</h2>
+    <div class="access-info">
+        <strong>所在地：</strong> 〒599-0221 大阪府阪南市石田330-1
+        <strong>最寄り駅：</strong> 阪和線「和泉鳥取駅」より車5分
+        <p style="margin-top: 15px;">
+            <a href="https://www.google.com/maps/search/330-1+Ishida+Hannan+Osaka+599-0221" 
+               target="_blank" 
+               style="color: #0052cc; text-decoration: underline; font-weight: bold;">
+                ▶ Google マップで開く
+            </a>
+        
+    </div>
+</section>
     
     <section>
         <h2>お問い合わせ</h2>
