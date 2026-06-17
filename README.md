@@ -170,30 +170,4 @@
         <p>© 2026 喜楽多合同会社. All Rights Reserved.</p>
     </footer>
 </body>
-</html>" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-        </div>
-    </section>
-    
-    <section>
-        <h2>お問い合わせ</h2>
-        <div class="contact">
-            <div class="contact-item">
-                <h3>📞 電話</h3>
-                <p>090-3590-5888 (代表)</p>
-            </div>
-            <div class="contact-item">
-                <h3>✉️ メール</h3>
-                <p>jingzhu@ks-atl.com</p>
-            </div>
-            <div class="contact-item">
-                <h3>📱 スマートフォンで経路案内</h3>
-                <a href="https://www.google.com/maps/dir/?api=1&destination=大阪府阪南市石田330-1" target="_blank">Google マップで開く</a>
-            </div>
-        </div>
-    </section>
-    
-    <footer>
-        <p>© 2026 喜楽多合同会社. All Rights Reserved.</p>
-    </footer>
-</body>
 </html>
