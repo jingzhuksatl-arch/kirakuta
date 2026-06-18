@@ -56,7 +56,7 @@
     <section>
     <h2>事業所イメージ / 取扱製品</h2>
     <div class="image-gallery">
-        <img src="https://github.com/jingzhuksatl-arch/kirakuta/blob/23ce454f8270fa6eb88c1a383a255537d8820278/office.jpg" alt="オフィス外観イメージ">
+        <img src="office.jpg" alt="オフィス外観イメージ">
         <img src="https://raw.githubusercontent.com/jingzhuksatl-arch/kirakuta/main/PLC図.jpg" alt="制御盤・PLCイメージ">
         <img src="https://github.com/jingzhuksatl-arch/kirakuta/blob/23ce454f8270fa6eb88c1a383a255537d8820278/PLC.jpg" alt="サーボモーター・センサーイメージ">
     </div>
